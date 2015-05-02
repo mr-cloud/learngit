@@ -1,4 +1,4 @@
 hello world, hello git!
-hello github!
+hello github and good bye github!
 build a new branch named dev.
 
